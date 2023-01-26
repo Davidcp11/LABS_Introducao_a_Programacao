@@ -1,0 +1,9 @@
+Conversor de bases numericas
+Bom dia
+Xabiral
+-----------------
+ 1: 0
+ 2: 4C
+ 3: 76
+ 4: 32
+ 5: AAAAAA

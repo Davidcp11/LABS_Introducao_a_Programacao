@@ -1,0 +1,22 @@
+Bom dia
+Boa tarde
+Boa noite
+-------------
+ 01:  R$ 140.00
+ 02:  R$ 146.40
+ 03:  R$ 1618.22
+ 04:  3.30
+ 05:  7.00
+ 06:  7.78
+ 07:  -1.01
+ 08:  26
+ 09:  52
+ 10:  -78
+ 11:  -5200
+ 12:  FA5 em hexadecimal eh valida
+ 13:  BD3 em hexadecimal eh valida
+ 14:  C2P em hexadecimal nao eh valida
+ 15:  101000 em hexadecimal eh valida
+ 16:  101OOO em hexadecimal nao eh valida
+ 17:  L0LOOO em hexadecimal nao eh valida
+ 18:  5@D;#*$:-) em hexadecimal nao eh valida

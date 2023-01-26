@@ -1,0 +1,18 @@
+juros  R$ 100.00   5.0%   8   S
+juros  R$  91.50  10%     6   s
+juros  R$ 400.00  15.0%  10   C
+media  1.1     5.5
+media  5       9
+media  6.6666  8.8888
+media  3.2     -5.222
+pmvs   5 
+pmvs   26
+pmvs   -91
+pmvs   -5226
+hexa   Fa5
+hexa   bD3
+hexa   C2P
+hexa   101000
+hexa   101OOO
+hexa   l0looo
+hexa   5@d;#*$:-)

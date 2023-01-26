@@ -1,0 +1,80 @@
+DCTA - Disney Cade Tua Arvore?
+Sistema Vestibular Automatizado
+
+==================================================
+Numero de candidatos inscritos: 70
+
+==================================================
+INSCRICAO     CANDIDATO             CURSO
+
+    1     Carlos Lopes                C
+    2     Rosa Mota                   C
+    3     Forrest Gump                T
+    4     Spyridion Louis             C
+    5     Michel Theato               C
+    6     Young Cho Hwang             C
+    7     Jose dos Campos             A
+    8     Ivete Sangalo               A
+    9     Albert Einstein             A
+   10     Andy Wachowski              C
+   11     Keanu Reaves                C
+   12     Carrie Ann Moss             C
+   13     Mickey Mouse                T
+   14     Dan Reynolds                C
+   15     Poliglota                   C
+   16     Piqui                       C
+   17     Loirinho                    C
+   18     Gado                        A
+   19     Farol                       T
+   20     Sabado                      C
+   21     Cj                          C
+   22     Disney                      T
+   23     Betinho                     C
+   24     Hentai                      T
+   25     A 25 eh bixo                C
+   26     Aqui eh 26                  C
+   27     Xupa IME                    A
+   28     Jair Messias Bortolazzo     A
+   29     Coronela                    A
+   30     Cade o apito zerohum        C
+   31     Exec sdds                   C
+   32     Kitassato                   C
+   33     Pave ou Pacume              T
+   34     Caaaaaaaimann               C
+   35     Pantanal                    C
+   36     Coracao do Brasil           C
+   37     Tiarrebenta                 A
+   38     As cotassssss               C
+   39     As vistasssss               C
+   40     As drogasssss               T
+   41     Vandegap                    C
+   42     Si, pero no                 C
+   43     La cucaracha                T
+   44     Sugou jah                   C
+   45     Cassithanos                 C
+   46     Fertranca                   T
+   47     Maedegap                    A
+   48     Teorema do Teorema          A
+   49     Definicao da definicao      A
+   50     Kick Butowsky               C
+   51     Phineas                     C
+   52     Ferb                        C
+   53     Nick                        T
+   54     Rick                        C
+   55     Dick                        C
+   56     Down                        T
+   57     Raven                       C
+   58     Cyborg                      A
+   59     Estelar                     T
+   60     Robin                       C
+   61     Mutano                      C
+   62     Trem bala                   A
+   63     Chandler                    T
+   64     Monica                      C
+   65     Joey doesnt share food      T
+   66     Phoebe                      C
+   67     Ross                        C
+   68     Rachel                      A
+   69     Carl Sagan                  A
+   70     Neil deGrasse Tyson         C
+

@@ -1,0 +1,192 @@
+Com o teste do enunciado, as respostas sao as seguintes.
+
+----------------------------------
+a) Classificados no vestibular
+----------------------------------
+
+Sub-lista Computacao:
+
+    Carrie Ann Moss            
+    Dan Reynolds               
+    Kitassato                  
+    Rick                       
+
+        Numero de classificados: 4
+        Vagas remanescentes:     0
+
+Sub-lista Astronomia:
+    Cyborg                     
+    Jair Messias Bortolazzo    
+    Maedegap                   
+    Rachel                     
+
+
+        Numero de classificados: 4
+        Vagas remanescentes:     0
+
+Sub-lista Turismo:
+
+    Chandler                   
+    Disney                     
+    Down                       
+    Farol                      
+    Fertranca                  
+    Forrest Gump               
+    Hentai                     
+    Joey doesnt share food     
+    Mickey Mouse               
+    Nick                       
+    Pave ou Pacume             
+
+        Numero de classificados: 11
+        Vagas remanescentes:     9
+
+----------------------------------
+b) Pontuacao geral
+----------------------------------
+
+Posicao       Nome                   Nota
+
+    1    Carrie Ann Moss            10.0
+    2    Dan Reynolds               10.0
+    3    Down                       10.0
+    4    Maedegap                   10.0
+    5    Rachel                     10.0
+    6    Rick                       9.8
+    7    Pave ou Pacume             5.2
+    8    Kitassato                  5.0
+    9    Jair Messias Bortolazzo    4.2
+   10    Cyborg                     3.6
+   11    Cade o apito zerohum       3.0
+   12    Andy Wachowski             2.8
+   13    As vistasssss              2.8
+   14    Betinho                    2.8
+   15    Caaaaaaaimann              2.8
+   16    Carlos Lopes               2.8
+   17    Cj                         2.8
+   18    Coracao do Brasil          2.8
+   19    Coronela                   2.8
+   20    Dick                       2.8
+   21    Exec sdds                  2.8
+   22    Ferb                       2.8
+   23    Loirinho                   2.8
+   24    Mickey Mouse               2.8
+   25    Monica                     2.8
+   26    Mutano                     2.8
+   27    Pantanal                   2.8
+   28    Phineas                    2.8
+   29    Poliglota                  2.8
+   30    Robin                      2.8
+   31    Ross                       2.8
+   32    Sabado                     2.8
+   33    Si, pero no                2.8
+   34    Spyridion Louis            2.8
+   35    Tiarrebenta                2.8
+   36    Trem bala                  2.8
+   37    Young Cho Hwang            2.8
+   38    Sugou jah                  2.6
+   39    Xupa IME                   2.6
+   40    Chandler                   2.4
+   41    Disney                     2.4
+   42    Fertranca                  2.4
+   43    Rosa Mota                  2.4
+   44    Raven                      2.2
+   45    As cotassssss              2.0
+   46    Forrest Gump               2.0
+   47    Vandegap                   2.0
+   48    Gado                       1.8
+   49    Ivete Sangalo              1.8
+   50    A 25 eh bixo               1.6
+   51    Albert Einstein            1.6
+   52    Aqui eh 26                 1.6
+   53    Carl Sagan                 1.6
+   54    Farol                      1.6
+   55    Joey doesnt share food     1.6
+   56    Keanu Reaves               1.6
+   57    Nick                       1.6
+   58    Hentai                     1.4
+   59    Jose dos Campos            1.4
+   60    Definicao da definicao     1.2
+   61    Phoebe                     1.2
+   62    Piqui                      1.2
+   63    Neil deGrasse Tyson        1.0
+   64    Cassithanos                0.0
+   65    La cucaracha               0.0
+   66    Michel Theato              0.0
+
+----------------------------------
+c) Relatorio completo
+----------------------------------
+
+Num.          Nome                   Curso    Nota   Situacao
+
+  25  A 25 eh bixo               Computacao   1.6  reprovado
+   9  Albert Einstein            Astronomia   1.6  reprovado
+  10  Andy Wachowski             Computacao   2.8  reprovado
+  26  Aqui eh 26                 Computacao   1.6  reprovado
+  38  As cotassssss              Computacao   2.0  reprovado
+  40  As drogasssss              Turismo      0.0  ausente
+  39  As vistasssss              Computacao   2.8  reprovado
+  23  Betinho                    Computacao   2.8  reprovado
+  34  Caaaaaaaimann              Computacao   2.8  reprovado
+  30  Cade o apito zerohum       Computacao   3.0  reprovado
+  69  Carl Sagan                 Astronomia   1.6  reprovado
+   1  Carlos Lopes               Computacao   2.8  reprovado
+  12  Carrie Ann Moss            Computacao   10.0  classificado
+  45  Cassithanos                Computacao   0.0  reprovado
+  63  Chandler                   Turismo      2.4  classificado
+  21  Cj                         Computacao   2.8  reprovado
+  36  Coracao do Brasil          Computacao   2.8  reprovado
+  29  Coronela                   Astronomia   2.8  fila de espera
+  58  Cyborg                     Astronomia   3.6  classificado
+  14  Dan Reynolds               Computacao   10.0  classificado
+  49  Definicao da definicao     Astronomia   1.2  reprovado
+  55  Dick                       Computacao   2.8  reprovado
+  22  Disney                     Turismo      2.4  classificado
+  56  Down                       Turismo      10.0  classificado
+  59  Estelar                    Turismo      0.0  ausente
+  31  Exec sdds                  Computacao   2.8  reprovado
+  19  Farol                      Turismo      1.6  classificado
+  52  Ferb                       Computacao   2.8  reprovado
+  46  Fertranca                  Turismo      2.4  classificado
+   3  Forrest Gump               Turismo      2.0  classificado
+  18  Gado                       Astronomia   1.8  reprovado
+  24  Hentai                     Turismo      1.4  classificado
+   8  Ivete Sangalo              Astronomia   1.8  reprovado
+  28  Jair Messias Bortolazzo    Astronomia   4.2  classificado
+  65  Joey doesnt share food     Turismo      1.6  classificado
+   7  Jose dos Campos            Astronomia   1.4  reprovado
+  11  Keanu Reaves               Computacao   1.6  reprovado
+  50  Kick Butowsky              Computacao   0.0  ausente
+  32  Kitassato                  Computacao   5.0  classificado
+  43  La cucaracha               Turismo      0.0  reprovado
+  17  Loirinho                   Computacao   2.8  reprovado
+  47  Maedegap                   Astronomia   10.0  classificado
+   5  Michel Theato              Computacao   0.0  reprovado
+  13  Mickey Mouse               Turismo      2.8  classificado
+  64  Monica                     Computacao   2.8  reprovado
+  61  Mutano                     Computacao   2.8  reprovado
+  70  Neil deGrasse Tyson        Computacao   1.0  reprovado
+  53  Nick                       Turismo      1.6  classificado
+  35  Pantanal                   Computacao   2.8  reprovado
+  33  Pave ou Pacume             Turismo      5.2  classificado
+  51  Phineas                    Computacao   2.8  reprovado
+  66  Phoebe                     Computacao   1.2  reprovado
+  16  Piqui                      Computacao   1.2  reprovado
+  15  Poliglota                  Computacao   2.8  reprovado
+  68  Rachel                     Astronomia   10.0  classificado
+  57  Raven                      Computacao   2.2  reprovado
+  54  Rick                       Computacao   9.8  classificado
+  60  Robin                      Computacao   2.8  reprovado
+   2  Rosa Mota                  Computacao   2.4  reprovado
+  67  Ross                       Computacao   2.8  reprovado
+  20  Sabado                     Computacao   2.8  reprovado
+  42  Si, pero no                Computacao   2.8  reprovado
+   4  Spyridion Louis            Computacao   2.8  reprovado
+  44  Sugou jah                  Computacao   2.6  reprovado
+  48  Teorema do Teorema         Astronomia   0.0  ausente
+  37  Tiarrebenta                Astronomia   2.8  fila de espera
+  62  Trem bala                  Astronomia   2.8  fila de espera
+  41  Vandegap                   Computacao   2.0  reprovado
+  27  Xupa IME                   Astronomia   2.6  fila de espera
+   6  Young Cho Hwang            Computacao   2.8  reprovado

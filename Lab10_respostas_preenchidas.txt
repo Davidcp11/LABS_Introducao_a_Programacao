@@ -1,0 +1,76 @@
+DCTA - Disney Cade Tua Arvore?
+Sistema Vestibular Automatizado
+
+============================================================
+Folhas de respostas recebidas: 66
+
+============================================================
+INSCRICAO              RESPOSTAS PREENCHIDAS
+
+   16     abcabcabcabcabceeeeeabcabcabcabcabceeeeeabcabcabcd
+    8     cccccccccccccccccccccccccccccccccccccccccccccccccc
+   27     cacacacacacacacacacacacacacacacacacacacacacacacaca
+   65     bebebabaedaddecabecabebebabaedaddecabec-bebe-abaed
+   54     acedabedaceaaedccdbabececaadbadeeabcbdbaeceaddcabe
+   28     aa--bb-c--eaaedccdbabeceabb---cccccdddddeeeeeeeeba
+   33     bebabebabeeaaedccdbabecebebabebabebabebabebaddcaba
+   32     babebabebaeaaedccdbabecebabebabebabebabebabeedcaee
+   53     cadababaecadabebecadababaecadabebecadababaecadabeb
+    9     aaaaaaaabbbbbbbbbcccccccccddddddddddeeeeeeee------
+   70     abcdeabcdeabcdeabcdeabcdeabcdeabcdeabcdeabcdeabcde
+    2     abcedbebabbedbebebddabebdbcbabdebcbabdebabdbebcbba
+    7     bacecdabcadebacdbecaebdcabdecadcbaecdbcabeceacaebc
+   46     bcdacbbcdecbecdcbdcbbcdabcabcdacbdaebccadbebcdacbb
+   66     bdcadedaebacdbacbadcbcdbacbadcbacbdcbdacbdbcdcbcad
+   63     aecbacecebceabcbcebcaececbccabacebabaecebcabecacab
+   51     bcdebaecbaedcedcbacbcadbcaebcabcadbcabcadbecadbdcc
+   21     bcdebaecbaedcedcbacbcadbcaebcabcadbcabcadbecadbdcc
+   23     bcdebaecbaedcedcbacbcadbcaebcabcadbcabcadbecadbdcc
+   35     bcdebaecbaedcedcbacbcadbcaebcabcadbcabcadbecadbdcc
+   37     bcdebaecbaedcedcbacbcadbcaebcabcadbcabcadbecadbdcc
+   55     bcdebaecbaedcedcbacbcadbcaebcabcadbcabcadbecadbdcc
+   20     bcdebaecbaedcedcbacbcadbcaebcabcadbcabcadbecadbdcc
+   39     bcdebaecbaedcedcbacbcadbcaebcabcadbcabcadbecadbdcc
+   31     bcdebaecbaedcedcbacbcadbcaebcabcadbcabcadbecadbdcc
+   15     bcdebaecbaedcedcbacbcadbcaebcabcadbcabcadbecadbdcc
+   62     bcdebaecbaedcedcbacbcadbcaebcabcadbcabcadbecadbdcc
+   60     bcdebaecbaedcedcbacbcadbcaebcabcadbcabcadbecadbdcc
+    1     bcdebaecbaedcedcbacbcadbcaebcabcadbcabcadbecadbdcc
+   42     bcdebaecbaedcedcbacbcadbcaebcabcadbcabcadbecadbdcc
+   64     bcdebaecbaedcedcbacbcadbcaebcabcadbcabcadbecadbdcc
+   67     bcdebaecbaedcedcbacbcadbcaebcabcadbcabcadbecadbdcc
+   13     bcdebaecbaedcedcbacbcadbcaebcabcadbcabcadbecadbdcc
+   17     bcdebaecbaedcedcbacbcadbcaebcabcadbcabcadbecadbdcc
+    4     bcdebaecbaedcedcbacbcadbcaebcabcadbcabcadbecadbdcc
+    6     bcdebaecbaedcedcbacbcadbcaebcabcadbcabcadbecadbdcc
+   10     bcdebaecbaedcedcbacbcadbcaebcabcadbcabcadbecadbdcc
+   34     bcdebaecbaedcedcbacbcadbcaebcabcadbcabcadbecadbdcc
+   36     bcdebaecbaedcedcbacbcadbcaebcabcadbcabcadbecadbdcc
+   52     bcdebaecbaedcedcbacbcadbcaebcabcadbcabcadbecadbdcc
+   61     bcdebaecbaedcedcbacbcadbcaebcabcadbcabcadbecadbdcc
+   68     acedabedaceaaedccdbabececaadbadeeabcbdbaeceaddcaba
+   56     acedabedaceaaedccdbabececaadbadeeabcbdbaeceaddcaba
+   47     acedabedaceaaedccdbabececaadbadeeabcbdbaeceaddcaba
+   14     acedabedaceaaedccdbabececaadbadeeabcbdbaeceaddcaba
+   12     acedabedaceaaedccdbabececaadbadeeabcbdbaeceaddcaba
+    5     baaacaaacaaccaaaaaacaaaaaccaacaaacaaaaacaaacaaacac
+   43     baaacaaacaaccaaaaaacaaaaaccaacaaacaaaaacaaacaaacac
+   45     baaacaaacaaccaaaaaacaaaaaccaacaaacaaaaacaaacaaacac
+   57     caecaecaedeacdaeadceaedaedaecdaecdecdaecdaedeaceac
+   25     dcbcdadbacdbacdbacdbacdbacdbacdbacdbadabcdbdacddca
+   18     baecbcebcaebcacbcebceabccbcebecebacbcbecbecebaecab
+   19     eccbebcdcbcbecbecbdecdeccdccebdbccbeccbcdbcdbcebce
+   49     dcdcecadecadeacdaeadadaeaeadadeaadadacacadaeaeaead
+   41     dcabbacadcabeececebcacacbccacdcbadbcacbdaccabcadce
+   26     eabdcadbcabcccecceccadcbdcdabbcabdacbdabcdcdecbceb
+   11     abcebaedcabcecacdacbdcacbeccdcacbbcceccbaccbdcdacd
+    3     abdcabcebecadbacdbcacbecceacdcbacdacbccecadcacbdcb
+   29     abbdcbacececcdccbdabcdcacbacbadcbecbdcdcabdcabbadc
+   69     aeeac--------cadedcadecdeadceda-cdeadce-dadcdedc-d
+   24     adcecadcadecedcacdcecdacdcecdcacdcdecdcacdcdacdced
+   22     acdcdacdcdcececdcddcdcaccdcadcaccaccaceccdcdcdcdca
+   30     adadddacdacdcadcacdacdcadcadcacadcacacdcacdacdcadc
+   44     adadadadcadcacdacdcadacdaddcccccccccaddadaaceeeeee
+   38     adcedededeeeeddddeededdedeadadaaaddcddccddcdcdcddc
+   58     daeadaedaedaeadeadeadeadeadedaedeadaedaeadeadaaacd
+   

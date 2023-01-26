@@ -1,0 +1,30 @@
+Sobremesas do rancho hipotetico.
+Bolo, gelatina, frutas e sorvetes.
+Aproveite, hoje eh rancho festivo.
+-----
+1 bolo, 1 gelatina, 1 fruta e 2 sorvetes.
+1 bolo, 1 gelatina, 2 frutas e 1 sorvete.
+1 bolo, 2 gelatinas, 1 fruta e 1 sorvete.
+2 bolos, 1 gelatina, 1 fruta e 1 sorvete.
+1 gelatina, 1 fruta e 2 sorvetes.
+1 gelatina, 2 frutas e 1 sorvete.
+2 gelatinas, 1 fruta e 1 sorvete.
+1 bolo, 1 fruta e 2 sorvetes.
+1 bolo, 2 frutas e 1 sorvete.
+2 bolos, 1 fruta e 1 sorvete.
+1 bolo, 1 gelatina e 2 sorvetes.
+1 bolo, 2 gelatinas e 1 sorvete.
+2 bolos, 1 gelatina e 1 sorvete.
+1 bolo, 1 gelatina e 2 frutas.
+1 bolo, 2 gelatinas e 1 fruta.
+2 bolos, 1 gelatina e 1 fruta.
+1 fruta e 2 sorvetes.
+2 frutas e 1 sorvete.
+1 gelatina e 2 frutas.
+2 gelatinas e 1 fruta.
+1 bolo e 2 gelatinas.
+2 bolos e 1 gelatina.
+1 bolo, 1 gelatina, 1 fruta e 2 sorvetes.
+1 bolo, 1 gelatina, 2 frutas e 1 sorvete.
+1 bolo, 2 gelatinas, 1 fruta e 1 sorvete.
+2 bolos, 1 gelatina, 1 fruta e 1 sorvete.

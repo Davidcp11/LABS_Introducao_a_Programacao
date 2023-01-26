@@ -1,0 +1,14 @@
+DCTA - Disney Cade Tua Arvore?
+Sistema Vestibular Automatizado
+
+==================================================
+               GABARITO OFICIAL
+
+acedabedaceaaedccdbabececaadbadeeabcbdbaeceaddcaba
+
+==================================================
+  CURSO          TOTAL VAGAS         NOTA MINIMA
+
+Computacao           4                 4.1
+Astronomia           4                 2.5
+Turismo              20                 1.1

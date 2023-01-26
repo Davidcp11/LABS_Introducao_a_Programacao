@@ -1,0 +1,8 @@
+Item a) O menor elemento esta na linha 1, coluna 2 e vale -8
+
+Item b) O elemento com mais vizinhos negativos esta na linha 2, coluna 1 e tem 5 vizinhos negativos
+
+Item c) A menor diferenca vale 0.00999999
+        Com um dos elementos na linha 3, coluna 4 e o outro na linha 0, coluna 0
+
+Item d) A "norma um" vale 126, e corresponde a coluna 1
